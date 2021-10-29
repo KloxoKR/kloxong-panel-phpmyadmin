@@ -1,13 +1,13 @@
 #%define kloxo /usr/local/lxlabs/kloxo/httpdocs/thirdparty
 %define kloxocp /home/kloxo/httpd/cp
-%define productname kloxong-panel
+%define productname kloxokr-panel
 %define packagename phpMyAdmin
 %define packagename2 phpmyadmin
 
 Name: %{productname}-%{packagename2}
 Version: 4.9.1
 #Release: 1%{?dist}
-Release: 1.kng%{?dist}
+Release: 1.kkr%{?dist}
 Summary: Web based MySQL browser written in php
 
 Group: Applications/Internet
